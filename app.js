@@ -5,7 +5,6 @@ import path from 'path';
 import cookieParser from 'cookie-parser';
 import logger from 'morgan';
 import Request from 'request-promise';
-import {migrate} from "./update_db";
 import mongoose from 'mongoose';
 
 const app = express();
@@ -18,7 +17,6 @@ mongoose.connect(Config.mongoURL, async (err) => {
     throw err;
   }else {
     console.log('Connect database bounty successfully.');
-    await migrate();
   }
 });
 // view engine setup
