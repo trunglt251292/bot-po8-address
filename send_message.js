@@ -15,7 +15,9 @@ We will send PO8 for you with PO8 DEPOSITE ADDRESS on DOBI EXCHANGE\n
 \u{2705} PLEASE update “ \u{1F449} PO8 ADDRESS on DOBI \u{1F448}“ of your. \n\n
 \u{1F525}\u{1F525} In order to update address receive PO8 \u{1F525}\u{1F525} \n
 Use bot of us with command:\n
-\u{2705} "/po8_address_dobi <PO8 Address In Dobi>"\n
+\u{2705} 1. Click me: https://t.me/po8_memo_bot
+\u{2705} 2. Command: "/po8_address_dobi <PO8 Address In Dobi>"\n
+\u{2705} Warning: To avoid spam in the group
 Example: /po8_address_dobi 0xE780c57Fe72e693210754A410496c19E4***** \n\n   
 \u{2705} GUIDE GET PO8 DEPOSITE ADDRESS IN DOBI: \n 
 https://www.youtube.com/watch?v=a4O-uLfeIkE&feature=youtu.be \n

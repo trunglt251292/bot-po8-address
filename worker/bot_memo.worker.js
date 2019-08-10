@@ -10,7 +10,7 @@ bot.on('message', async (msg)=>{
   try{
     if(msg.text){
       let split = msg.text.split(' ');
-      if(split[0].toLowerCase() === '/po8_address_dobi' && msg.chat.id === Config.group_po8){
+      if(split[0].toLowerCase() === '/po8_address_dobi'){
         console.log('==============> ',msg);
         let text = split[1];
         if (StringHelper.isValidETHAddress(text)) {
